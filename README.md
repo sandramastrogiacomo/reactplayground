@@ -1,30 +1,56 @@
-# React + TypeScript + Vite
+# React Playground - Generation Brasil
+Este repositório faz parte do treinamento da Generation Brasil e serve como um ambiente de aprendizado e experimentação com React.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sobre o Projeto
+Este playground foi criado para:
 
-Currently, two official plugins are available:
+Praticar os conceitos fundamentais do React
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Experimentar com componentes, estados e props
 
-## Expanding the ESLint configuration
+Desenvolver habilidades práticas com a biblioteca
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Acompanhar o progresso durante o treinamento Generation
 
-- Configure the top-level `parserOptions` property like this:
+Tecnologias Utilizadas
+React
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+JavaScript (ES6+)
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+HTML5
+
+CSS3
+
+[Outras bibliotecas/dependências, se aplicável]
+
+Como Executar o Projeto Localmente
+Clone este repositório:
+
+bash
+Copy
+git clone https://github.com/sandramastrogiacomo/reactplayground.git
+Instale as dependências:
+
+bash
+Copy
+npm install
+Inicie o servidor de desenvolvimento:
+
+bash
+Copy
+npm start
+Abra http://localhost:3000 no seu navegador.
+
+Estrutura do Projeto
+[Descreva brevemente a estrutura de pastas ou os principais arquivos]
+
+Contribuições
+Este é um projeto de aprendizado como parte do treinamento Generation Brasil. Contribuições externas não são esperadas no momento, mas feedback é sempre bem-vindo!
+
+Contato
+Sandra Mastrogiacomo
+
+[Outras informações de contato, se desejar]
+
+Este README foi criado como parte do exercício do treinamento Generation Brasil.
+
